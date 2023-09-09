@@ -1,0 +1,3 @@
+[submodule "next-app-v.0"]
+	path = next-app-v.0
+	url = https://github.com/lppcse/NextJs-App.git
